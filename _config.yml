@@ -7,9 +7,9 @@ version: 2
 
 # Personal info
 name: 권종범
-title: Python Backend Engineer
+title: Python 백엔드 엔지니어
 email: bolk9652@naver.com
-website: https://github.com/by-Exist
+# website: https://github.com/by-Exist
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -34,7 +34,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: |
-  &nbsp;&nbsp;파이썬 웹 백엔드 엔지니어를 꿈꾸는 개발자입니다.
+  &nbsp;&nbsp;Django를 활용한 파이썬 웹 백엔드 개발자입니다.
 
   &nbsp;&nbsp;'파이썬의 선'에 등장하는 아래의 문장을 늘 마음에 새겨두고 있습니다.
 
@@ -108,7 +108,7 @@ content:
 
           &nbsp;&nbsp;**[Google API Design Guide](https://cloud.google.com/apis/design)**에 등장하는 API 동작 개념들을 구현하기 위해 DRF의 코드를 직접 살펴보며 유틸성 코드를 작성하였습니다.
 
-          &nbsp;&nbsp;아이콘을 클릭하여 해당 뼈대로 구현된 예제 사이트(Swagger)를 확인할 수 있습니다.
+          &nbsp;&nbsp;아이콘을 클릭하여 해당 뼈대로 구현된 **예제 사이트(Swagger)**를 확인할 수 있습니다.
       - layout: left
         title: Piku API Clone
         sub_title: Piku 서비스의 API를 클론
@@ -120,7 +120,7 @@ content:
         description: |
           &nbsp;&nbsp;Piku 이미지 월드컵 사이트를 클론하여 API를 작성하였습니다.
 
-          &nbsp;&nbsp;Django Debug Toolbar를 활용한 ORM을 최적화 및 프로젝트의 효율적인 구조, Swagger를 사용한 API 문서화 등을 학습하게 되었습니다.
+          &nbsp;&nbsp;Django Debug Toolbar를 활용한 ORM 최적화 및 프로젝트의 효율적인 구조, Swagger를 사용한 API 문서화 등을 학습하게 되었습니다.
       - layout: left
         title: Pinterest Clone
         sub_title: Django를 활용한 Pinterest 서비스 Clone
@@ -142,7 +142,7 @@ content:
             icon: fab fa-github
             url: https://github.com/by-Exist/ins_frontend
           - title: backend github link
-            icon: fas fa-globe
+            icon: fas fa-github
             url: https://github.com/by-Exist/ins_backend
         description: |
           &nbsp;&nbsp;Instagram 서비스를 클론한 사이트를 제작하였습니다.
@@ -170,7 +170,7 @@ content:
     content:
       - layout: top-middle
         title: 작정하고 장고
-        caption: 2021.03 - 2021.04
+        caption: 2021.02 - 2021.04
         link: https://www.inflearn.com/
         quote: >
           Django 추가 학습
@@ -189,7 +189,7 @@ content:
 
           &nbsp;&nbsp;Django의 기초 개념, DRF와 React를 활용한 서비스 개발, 서비스 개발 과정의 전반적인 흐름을 경험할 수 있었습니다.
       - layout: top-middle
-        title: 국비 지원 과정
+        title: 국비지원학원
         sub_title: 파이썬/자바/프레임워크 기반 공공 데이터 활용 인공지능/빅데이터 서비스
         caption: 2019.12 ~ 2020.9
         link: http://hkit.kr/
@@ -205,8 +205,7 @@ footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
-# remote_theme: sproogen/resume-theme
-remote_theme: by-Exist/by-exist.github.com
+remote_theme: sproogen/resume-theme
 
 sass:
   sass_dir: _sass
