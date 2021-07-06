@@ -168,33 +168,33 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-middle
+      - layout: right
         title: 작정하고 장고
         caption: 2021.02 - 2021.04
         link: https://www.inflearn.com/
         quote: >
-          Django 추가 학습
+          Django 심화
         description: |
           &nbsp;&nbsp;Django의 기본 기능을 적극 활용하여 Pinterest 서비스를 클론하였습니다.
 
           &nbsp;&nbsp;Docker를 활용하여 서비스를 배포하는 과정에서 컨테이너 기술이 현대 개발에 있어 큰 부분을 차지하고 있다는 점을 체감할 수 있었습니다.
-      - layout: top-middle
+      - layout: right
         title: 리액트와 함께 장고 시작하기 Complete
         caption: 2020.09 ~ 2021.02
         link: https://educast.com/
         quote: >
-          Django 및 React 기초 학습
+          Django, React 기초
         description: |
           &nbsp;&nbsp;React와 Django를 활용하여 웹 서비스를 개발하는 방법을 학습하였습니다.
 
           &nbsp;&nbsp;Django의 기초 개념, DRF와 React를 활용한 서비스 개발, 서비스 개발 과정의 전반적인 흐름을 경험할 수 있었습니다.
-      - layout: top-middle
+      - layout: right
         title: 국비지원학원
         sub_title: 파이썬/자바/프레임워크 기반 공공 데이터 활용 인공지능/빅데이터 서비스
         caption: 2019.12 ~ 2020.9
         link: http://hkit.kr/
         quote: >
-          프로그래밍 기초 학습
+          프로그래밍 기초
         description: |
           &nbsp;&nbsp;국비지원학원 과정을 통해 프로그래머로써 갖추어야 할 기본기를 학습하였습니다. 
 
