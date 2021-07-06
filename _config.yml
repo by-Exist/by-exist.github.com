@@ -149,7 +149,7 @@ content:
 
           &nbsp;&nbsp;Django와 React를 활용하여 개발되었으며, 프론트엔드와 백엔드의 분리된 과정에서의 개발과 배포에 얽힌 여러 단계를 밟아가며 전체적인 웹 개발 프로세스를 파악하였습니다.
       - layout: left
-        title: Cat Humer School
+        title: Cat Humor School
         sub_title: 국비지원 과정 중 진행된 웹 개발 팀 프로젝트
         caption: 2020.7 ~ 2020.8
         additional_links:
