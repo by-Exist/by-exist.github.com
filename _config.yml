@@ -200,6 +200,12 @@ content:
           &nbsp;&nbsp;국비지원학원 과정을 통해 프로그래머로써 갖추어야 할 기본기를 학습하였습니다. 
 
           &nbsp;&nbsp;Java, Python, SQL을 위주로 학습이 진행되었으며, 두번째로 진행한 팀 프로젝트에서 flask를 활용한 웹 개발을 경험하고 진로를 결정하게 되었습니다.
+      - layout: right
+        title: 봉화고등학교
+        caption: 2012.03 ~ 2015.02
+        link: http://school.gyo6.net/bonghwahs
+        quote: >
+          봉화 고등학교 졸업
 
 # Footer
 footer_show_references: true
