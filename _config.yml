@@ -68,8 +68,8 @@ content:
       - layout: top-middle
         title: Backend
         sub_title: |
-          <mark>Python</mark>
-          <mark>DRF</mark>
+          <mark style="background-color:rgb(0, 102, 204)">Python</mark>
+          <mark style="background-color:rgb(0, 102, 204)">DRF</mark>
           <mark>Postgres</mark>
           <mark>Nginx</mark>
       - layout: top-middle
@@ -81,6 +81,7 @@ content:
         title: Other
         sub_title: |
           <mark>VSCode</mark>
+          <mark>Git</mark>
           <mark>Vultr</mark>
 
   # Project Section
